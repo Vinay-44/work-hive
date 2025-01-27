@@ -1,0 +1,33 @@
+[{
+    "name": "Amazon",
+    "logo": "/amazon.svg"
+  },
+  {
+    "name": "Microsoft",
+    "logo": "/microsoft.webp"
+  },
+  {
+    "name": "Google",
+    "logo":"/google.webp"
+  },
+  {
+    "name": "IBM",
+    "logo": "/ibm.svg"
+  },
+  {
+    "name": "Meta",
+    "logo": "/meta.svg"
+  },
+  {
+    "name": "Netflix",
+    "logo": "/netflix.png"
+  },
+  {
+    "name": "Uber",
+    "logo": "/uber.svg"
+  },
+  {
+    "name": "Atlassian",
+    "logo": "/atlassian.svg"
+  }
+]
